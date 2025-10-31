@@ -1,2 +1,1 @@
-print('Hello')
 print('Local change before rebase')
